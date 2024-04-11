@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|solutionrelative:test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|solutionrelative:C Learning in bilibili\\Quick understand of C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|solutionrelative:homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:C Learning in bilibili\\L2-types  and size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|solutionrelative:C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:L1 - Learning C\\L2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:L1 - Learning C\\Hello C!.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_1.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\test_\\test_1.c",
+              "RelativeDocumentMoniker": "test_\\test_1.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\test_\\test_1.c*",
+              "RelativeToolTip": "test_\\test_1.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T01:53:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homework1.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\homework\\homework1.c",
+              "RelativeDocumentMoniker": "homework\\homework1.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\homework\\homework1.c",
+              "RelativeToolTip": "homework\\homework1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T01:29:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quick understand of C.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
+              "RelativeDocumentMoniker": "C Learning in bilibili\\Quick understand of C.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
+              "RelativeToolTip": "C Learning in bilibili\\Quick understand of C.c",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAwJwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:36:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "L2-1.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
+              "RelativeDocumentMoniker": "L1 - Learning C\\L2-1.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
+              "RelativeToolTip": "L1 - Learning C\\L2-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:35:18.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L2-types  and size.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
+              "RelativeDocumentMoniker": "C Learning in bilibili\\L2-types  and size.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
+              "RelativeToolTip": "C Learning in bilibili\\L2-types  and size.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T01:46:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
+              "RelativeDocumentMoniker": "C Learning in bilibili\\test.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
+              "RelativeToolTip": "C Learning in bilibili\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:36:05.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hello C!.c",
+              "DocumentMoniker": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
+              "RelativeDocumentMoniker": "L1 - Learning C\\Hello C!.c",
+              "ToolTip": "F:\\Vs C learning\\c_learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
+              "RelativeToolTip": "L1 - Learning C\\Hello C!.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:35:16.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
