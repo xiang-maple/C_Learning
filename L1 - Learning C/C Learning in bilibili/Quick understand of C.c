@@ -160,5 +160,110 @@
 //	//char arr2[] = { 'a','b','c','d','e','f','\0' };
 //}
 
+//int main()
+//{
+//	int a = 5; // initialize
+//	a = 20; // assignment
+//	return 0;
+//}
+// + - * & / =  are twice units operators (without integer divide) 
+// ! - + & sizeof ~ -- ++ * () are single operator
+
+//int main()
+//{
+//	int bul = -1;  // 0 is false and other number is true
+//	if (!bul)  // the if () in (), the value is bull
+//	{
+//		printf("the bull value is false");
+//	}
+//
+//	return 0;
+//}
+
+// int main()
+//{
+//	 int a = 0;
+//	 //printf("%d\n", sizeof int); // it is error
+//	 printf("%d\n", sizeof (int));
+//	 printf("%d\n", sizeof a);
+//	 printf("%d\n", sizeof (a));
+//	 
+//	 int arr[10] = {0};
+//	 printf("%d\n", sizeof arr);
+//
+//	return 0;
+//}
+
+//int main()
+//{
+//	// ++ and -- usage
+//	//int a = 10;
+//	//int b = a++; // = ++, although b =10 , but a change after that
+//	//int c = ++a; // ++ =
+//	//printf("%d\n", a);
+//	//printf("%d\n", b);
+//	//printf("%d\n", c);
+//	/*return 0*/
+//	/*int a = 3.14;
+//	int b = (int)3.14;
+//	printf("%f\n",a);
+//	printf("%d\n",b);
+//
+//	return 0;*/
+//}
 
 
+//int main()
+//{
+//	
+// // && and || usage
+// //int a = 10;
+//	//int b = 0;
+//	//if (a && b)
+//	//{
+//	//	printf("the are true");
+//	//}
+//	//if (a || b)
+//	//{
+//	//	printf("the are true");
+//	//}
+//	
+// 
+// // three units operator
+//	/*int s = 0;
+//	int a = 10;
+//	int b = -20;
+//	scanf("%d", &s);
+//	int v = s > 0 ? 1 : 0;
+//	printf("%d", v);*/
+//}
+
+
+// how to use ,
+//int main()
+//{
+//	int a = 10, b = 4, c = 3;
+//	printf("%d,%d,%d\n", a, b, c);
+//	printf("%d %d %d\n", a, b, c);
+//	// c: 14 a:24 b:10
+//	int d = (c = a + b, a = a + c, b = a - c); // b =10 is output of d
+//	printf("%d\n", d);
+//	printf("%d %d %d\n", a, b, c);
+//	
+//	return 0;
+//}
+
+//int main()
+//{
+//	int arr[10] = { 0,1,2,3,4,5,6,7,8,9 };
+//	printf("%d", arr[3]);  // [] is index finding operator 
+//}
+
+// key word
+int main()
+{
+	auto int a = 0;  // auto variables  also is int a =0;
+	// key word : auto , break, case. char . const . continue, default, do, double, else, enum, "struct, union", extern, for , "goto", float ,if ,int ,long , refgister, return, short, signed, sizeof , static,unsigned, viod , volatile, while
+
+	return 0;
+}
