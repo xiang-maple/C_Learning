@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\C_Learning\\L1 - Learning C\\",
+  "WorkspaceRootPath": "F:\\github\\C_Learning\\L1 - Learning C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|solutionrelative:C Learning in bilibili\\Quick understand of C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|solutionrelative:test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|solutionrelative:homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:C Learning in bilibili\\L2-types  and size.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|solutionrelative:C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|solutionrelative:test_\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2077F99-7DAD-43C2-9F68-ABDD158C452D}|test_\\test_.vcxproj|solutionrelative:test_\\test_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:L1 - Learning C\\L2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC9FF376-0167-42D2-B080-1A4F2BB5346E}|L1 - Learning C\\L1 - Learning C.vcxproj|solutionrelative:L1 - Learning C\\Hello C!.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{308B7E53-46C2-44AC-84C0-24E4B6A687DD}|homework\\homework.vcxproj|solutionrelative:homework\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EEE3192-5A06-4780-A0EA-C8099CC7333E}|C Learning in bilibili\\C Learning in bilibili.vcxproj|solutionrelative:C Learning in bilibili\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +42,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "test_1.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c",
-              "RelativeDocumentMoniker": "test_\\test_1.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c",
-              "RelativeToolTip": "test_\\test_1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "test_2.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_2.c",
+              "RelativeDocumentMoniker": "test_\\test_2.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_2.c",
+              "RelativeToolTip": "test_\\test_2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-11T01:53:22.975Z"
+              "WhenOpened": "2024-04-24T06:43:13.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "test_1.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c",
+              "RelativeDocumentMoniker": "test_\\test_1.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\test_\\test_1.c",
+              "RelativeToolTip": "test_\\test_1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T01:53:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "homework1.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c",
               "RelativeDocumentMoniker": "homework\\homework1.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\homework\\homework1.c",
               "RelativeToolTip": "homework\\homework1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -68,46 +86,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Quick understand of C.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
               "RelativeDocumentMoniker": "C Learning in bilibili\\Quick understand of C.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\Quick understand of C.c",
               "RelativeToolTip": "C Learning in bilibili\\Quick understand of C.c",
-              "ViewState": "AQIAANwAAAAAAAAAAAAAAPcAAAAVAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAvwHMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-03T06:36:06.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "L2-1.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
-              "RelativeDocumentMoniker": "L1 - Learning C\\L2-1.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
-              "RelativeToolTip": "L1 - Learning C\\L2-1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-03T06:35:18.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "L2-types  and size.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
-              "RelativeDocumentMoniker": "C Learning in bilibili\\L2-types  and size.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
-              "RelativeToolTip": "C Learning in bilibili\\L2-types  and size.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-08T01:46:36.996Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "L2-1.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
+              "RelativeDocumentMoniker": "L1 - Learning C\\L2-1.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\L2-1.c",
+              "RelativeToolTip": "L1 - Learning C\\L2-1.c",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:35:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "L2-types  and size.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
+              "RelativeDocumentMoniker": "C Learning in bilibili\\L2-types  and size.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\L2-types  and size.c",
+              "RelativeToolTip": "C Learning in bilibili\\L2-types  and size.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T01:46:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
               "RelativeDocumentMoniker": "C Learning in bilibili\\test.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\C Learning in bilibili\\test.c",
               "RelativeToolTip": "C Learning in bilibili\\test.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -115,15 +135,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Hello C!.c",
-              "DocumentMoniker": "D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
+              "DocumentMoniker": "F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
               "RelativeDocumentMoniker": "L1 - Learning C\\Hello C!.c",
-              "ToolTip": "D:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
+              "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\L1 - Learning C\\Hello C!.c",
               "RelativeToolTip": "L1 - Learning C\\Hello C!.c",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-03T06:35:16.975Z"
+              "WhenOpened": "2024-04-03T06:35:16.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

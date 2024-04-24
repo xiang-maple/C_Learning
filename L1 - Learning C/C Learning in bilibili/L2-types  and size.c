@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(void)
 {
-	/*printf("%zu\n", sizeof(unsigned short int)); // hu
+	printf("%zu\n", sizeof(unsigned short int)); // hu
 	printf("%zu\n", sizeof(short)); // hd
 	printf("%zu\n", sizeof(unsigned int)); // u
 	printf("%zu\n", sizeof(int)); // d
@@ -15,6 +15,8 @@ int main(void)
 	printf("%zu\n", sizeof(long double)); // ld 
 	printf("%zu\n", sizeof(char)); // c/s
 	printf("%zu\n", sizeof(unsigned char)); //c/s 
+	//printf("%zu\n", sizeof(string)); //c/s // there not string in C
+	
 	
 
 	int in1 = 0;
@@ -24,7 +26,7 @@ int main(void)
 	printf("input your first number\n");
 	scanf("%d", &in2);
 	int sum = in1 + in2;
-	printf("sum is %d", sum);*/
+	printf("sum is %d", sum);
 
-	//return 0;
+	return 0;
 }
