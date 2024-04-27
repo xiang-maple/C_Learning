@@ -29,7 +29,7 @@
 /*---part variables and whole variables---*/
 
 //int b = 0;
-int c = 123;  // whole variables 
+/*int c = 123*/;  // whole variables 
 //int main()
 //{
 //	{
@@ -103,20 +103,20 @@ int c = 123;  // whole variables
 //int main(void)
 //{
 //	char arr1[] = "abcdefg";
-//	char arr2[] = {'a','b','c','d','e','f','\0'};
+//	char arr2[7] = {'a','b','c','d','e','f','\0'};
 //	// char arr3[] = {"a","b","c"}; // error file
 //	printf("%d\n", strlen(arr2));
 //	printf("%s\n", arr1);
 //	return 0;
 //
 //}
-int main(void)
-{
-	printf("%d\n", strlen("c:\test\628\test.c"));
-	printf("c:\test\0648\test.c\n"); // this print 8ary  
-	printf("c:\test\648\test.c\n");
-	printf("\065\n");
-}
+//int main(void)
+//{
+//	printf("%d\n", strlen("c:\test\628\test.c"));
+//	printf("c:\test\0648\test.c\n"); // this print 8ary  
+//	printf("c:\test\648\test.c\n");
+//	printf("\065\n");
+//}
 //int main(viod)
 //{
 //	printf("\\");

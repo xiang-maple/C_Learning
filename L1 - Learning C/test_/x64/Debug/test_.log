@@ -1,2 +1,2 @@
-﻿  test_1.c
-  test_.vcxproj -> F:\Vs C learning\c_learning\L1 - Learning C\x64\Debug\test_.exe
+﻿  test_2.c
+LINK : fatal error LNK1168: 无法打开 F:\github\C_Learning\L1 - Learning C\x64\Debug\test_.exe 进行写入
