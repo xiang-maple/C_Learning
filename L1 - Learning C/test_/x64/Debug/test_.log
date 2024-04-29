@@ -1,3 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test_.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   tes_2.c
+F:\github\C_Learning\L1 - Learning C\test_\tes_2.c(15,8): warning C4047: “初始化”:“char”与“char [2]”的间接级别不同
   test_.vcxproj -> F:\github\C_Learning\L1 - Learning C\x64\Debug\tes_.exe

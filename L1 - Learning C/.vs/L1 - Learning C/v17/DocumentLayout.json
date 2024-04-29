@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "test_\\tes_2.c",
               "ToolTip": "F:\\github\\C_Learning\\L1 - Learning C\\test_\\tes_2.c",
               "RelativeToolTip": "test_\\tes_2.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-27T06:06:34.796Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "test_\\test_1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-11T01:53:22.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T01:53:22.975Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "C Learning in bilibili\\Quick understand of C.c",
               "ViewState": "AQIAANUAAAAAAAAAAAAAAHYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-03T06:36:06.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T06:36:06.397Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "L1 - Learning C\\L2-1.c",
               "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-03T06:35:18.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T06:35:18.591Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "C Learning in bilibili\\L2-types  and size.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-08T01:46:36.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T01:46:36.996Z"
             },
             {
               "$type": "Document",
