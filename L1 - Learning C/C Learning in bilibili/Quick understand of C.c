@@ -1,59 +1,63 @@
 #define _CRT_SECURE_NO_WARNINGS
 // This is Standard input and output so (it is a package/library to cite the function)
 #include <stdio.h>
+#include <string.h> 
 // and int main() is a rule made by people . If you have not wrong, you should return 0
 // this is main function
-//  int main()
-//
+//int main()
 ///*---variables or data type and pirntf usage  */
-//
-//{
-//	// this is input function
-//	
-//	printf("Hello C\n");
-//	printf("you are wrong\nshit");
-//	printf(",noshit");
-//	return 0;
-//	
-//	printf("%zu\n", sizeof(char)); // 1 byte = 8 bit ,  1024**5byte=1024**4kb=1024**3mb=1024**gb=1024**tb=1024**pb
-//	printf("%zu\n", sizeof(short));
-//	printf("%zu\n", sizeof(int));
-//	printf("%zu\n", sizeof(long));
-//	printf("%zu\n", sizeof(long	long));
-//	printf("%zu\n", sizeof(float));
-//	printf("%zu\n", sizeof(double));
-//
-//	return 0;
 
+//{
+	// this is input function
+
+	//printf("Hello C\n");
+	//printf("you are wrong\nshit");
+	//printf(",noshit");
+	//return 0;
+
+//	printf("char size: %zu\n", sizeof(char)); // 1 byte = 8 bit ,  1024**5byte=1024**4kb=1024**3mb=1024**gb=1024**tb=1024**pb
+//	printf("short size: %zu\n", sizeof(short));
+//	printf("int size: %zu\n", sizeof(int));
+//	printf("long size: %zu\n", sizeof(long));
+//	printf("long long: %zu\n", sizeof(long	long));
+//	printf("float size: %zu\n", sizeof(float));
+//	printf("double size: %zu\n", sizeof(double));
+//
+//	return 0;
 //}
 
 /*---part variables and whole variables---*/
 
 //int b = 0;
-//int c = 123;  // whole variables 
+/*int c = 123*/;  // whole variables 
 //int main()
 //{
 //	{
 //		int a = 19;
-//		scanf ("%d", & b);
+//		const int b = 3;
+//		scanf("%d", &b);
+////	b = b + 1;
 //		printf("%d\n", a);
 //		printf("%d\n", a + b);
-//	
+//
 //
 //	}
-//	extern int oth;  // add the variable in other file
-//		 
-//
-//	printf("%d\n", oth);
-//	// printf("%d\n", a); // part variables can not be used
-//	printf("%d\n", c);	
-//	return 0;
-//	
 //}
+	//extern int oth;  // add the variable in other file
+	//	 
+	//int main(void)
+	//{
+	//	printf("%d\n", oth);
+	//	// printf("%d\n", a); // part variables can not be used
+	//	printf("%d\n", c);
+	//	return 0;
+
+	//}
 
 
-// constants
- // constants varibales
+
+//constants
+//constants varibales
 //int main()
 //{
 //	int b = 20;
@@ -61,11 +65,15 @@
 //	// a = 30; // err 
 //	printf(" a is %d\n", a);
 //	// int arry[a] = { 0 }; // err , so the  const a is not the constants
-//	int arry[10] = { 0 };
+//	int arry[10] = { 1 };
+//	for (int i = 0; i < 10; i++)
+//	{
+//		printf("number i-%d: %d\n", i,arry[i]);
+//	}
 //	return 0;
 //}
 
-// define constants
+///* define constants*/
 //#define CC 3.14
 //int main()
 //{
@@ -74,12 +82,12 @@
 //
 //}
 
-// enumerment constant
+//// enumerment constant
 //enum Color
 //{
 //	RED,
 //	BLUE,
-//    GREEN
+//	GREEN
 //};
 //
 //int main()
@@ -90,12 +98,12 @@
 //	printf("%d\n", c);
 //	
 //}
-#include <string.h> 
+
 
 //int main(void)
 //{
 //	char arr1[] = "abcdefg";
-//	char arr2[] = {'a','b','c','d','e','f','\0'};
+//	char arr2[7] = {'a','b','c','d','e','f','\0'};
 //	// char arr3[] = {"a","b","c"}; // error file
 //	printf("%d\n", strlen(arr2));
 //	printf("%s\n", arr1);
@@ -105,8 +113,9 @@
 //int main(void)
 //{
 //	printf("%d\n", strlen("c:\test\628\test.c"));
-//	printf("c:\test\0648\test.c"); // this print 8ary  
-//	printf("c:\test\648\test.c");
+//	printf("c:\test\0648\test.c\n"); // this print 8ary  
+//	printf("c:\test\648\test.c\n");
+//	printf("\065\n");
 //}
 //int main(viod)
 //{
@@ -260,10 +269,10 @@
 //}
 
 // key word
-int main()
-{
-	auto int a = 0;  // auto variables  also is int a =0;
-	// key word : auto , break, case. char . const . continue, default, do, double, else, enum, "struct, union", extern, for , "goto", float ,if ,int ,long , refgister, return, short, signed, sizeof , static,unsigned, viod , volatile, while
-
-	return 0;
-}
+//int main()
+//{
+//	auto int a = 0;  // auto variables  also is int a =0;
+//	// key word : auto , break, case. char . const . continue, default, do, double, else, enum, "struct, union", extern, for , "goto", float ,if ,int ,long , refgister, return, short, signed, sizeof , static,unsigned, viod , volatile, while
+//
+//	return 0;
+//}

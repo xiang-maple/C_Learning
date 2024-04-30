@@ -1,2 +1,6 @@
 ﻿  Quick understand of C.c
-  C Learning in bilibili.vcxproj -> D:\github\C_Learning\L1 - Learning C\x64\Debug\C Learning in bilibili.exe
+F:\github\C_Learning\L1 - Learning C\C Learning in bilibili\Quick understand of C.c(108,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  F:\github\C_Learning\L1 - Learning C\C Learning in bilibili\Quick understand of C.c(108,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  C Learning in bilibili.vcxproj -> F:\github\C_Learning\L1 - Learning C\x64\Debug\C Learning in bilibili.exe
