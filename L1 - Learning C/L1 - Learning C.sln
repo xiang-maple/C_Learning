@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C Learning in bilibili", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "homework", "homework\homework.vcxproj", "{308B7E53-46C2-44AC-84C0-24E4B6A687DD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_", "test_\test_.vcxproj", "{E2077F99-7DAD-43C2-9F68-ABDD158C452D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tes_", "test_\test_.vcxproj", "{E2077F99-7DAD-43C2-9F68-ABDD158C452D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
